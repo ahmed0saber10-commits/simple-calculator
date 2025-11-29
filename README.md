@@ -69,4 +69,3 @@ MIT License (optional)
 
 ---
 
-لو عايز أضيف فيه Screenshot، أو مثال للكود، أو كمان Version GUI… قولّي واظبطهولك 💪🔥
